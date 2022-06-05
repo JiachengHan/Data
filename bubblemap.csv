@@ -1,4 +1,4 @@
-region,lat,lon,count,price,group
+region,lat,lon,n,price,group
 2661,59.93,30.32,159367,10.42,Max
 81,55.73,37.76,161052,5.79,Max
 2871,56.23,43.89,26386,4.5,Med

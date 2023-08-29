@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "West Melbourne"
+                "name": "WM"
             },
             "geometry": {
                 "coordinates": [
@@ -94,7 +94,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "North Melbourne"
+                "name": "NM"
             },
             "geometry": {
                 "coordinates": [
@@ -148,7 +148,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Melbourne"
+                "name": "M"
             },
             "geometry": {
                 "coordinates": [
@@ -194,7 +194,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "East Melbourne"
+                "name": "EM"
             },
             "geometry": {
                 "coordinates": [
@@ -252,7 +252,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "South Melbourne"
+                "name": "SM"
             },
             "geometry": {
                 "coordinates": [
@@ -334,7 +334,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "SE Melbourne"
+                "name": "SEM"
             },
             "geometry": {
                 "coordinates": [
